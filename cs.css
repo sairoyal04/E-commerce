@@ -27,7 +27,7 @@ main {
 .prod-card {
     width: 350px;
     margin: 5% auto 20px;
-    border: 1px solid black;
+    border: 1px solid rgb(19, 17, 17);
     text-align: center;
     border-radius: 20px;
     height: 670px;
